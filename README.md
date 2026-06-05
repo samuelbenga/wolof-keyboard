@@ -62,13 +62,17 @@ Settings → Time & Language → Language & Region → Keyboard
 
 6. Start typing in Wolof using the dedicated characters.
 
+For detailed instructions, see:
+
+[Installation Guide](docs/installation-guide.md)
+
 ## Roadmap
 
 - [x] Keyboard layout design
 - [x] Personal testing
 - [x] Windows installation package
 - [x] GitHub documentation
-- [ ] User guide
+- [x] User guide
 - [ ] External testing
 - [ ] Community feedback
 - [ ] Future improvements
