@@ -44,7 +44,7 @@ The keyboard facilitates access to:
 and other characters commonly used in standard Wolof orthography.
 
 ## Screenshot
-![Wolof Keyboard](Clavier WO LinkedIn)
+![Wolof Keyboard](Clavier WO LinkedIn.jpg)
 
 ## Author
 
