@@ -1,34 +1,25 @@
 # Wolof Keyboard
 
-A keyboard layout designed to facilitate writing in Wolof on digital devices.
+## About
 
-## About the Project
+Wolof Keyboard is a keyboard layout designed to facilitate writing Wolof on digital devices.
 
-The Wolof Keyboard project aims to make Wolof writing more accessible by providing easy access to Wolof-specific characters and spelling conventions.
+The project was created to make standard Wolof orthography more accessible and to support the growing use of national languages in digital and professional environments.
 
-As local languages become increasingly present in education, communication and digital environments, writing tools play a key role in supporting their use.
+As local languages increasingly enter education, media, public communication and digital platforms, appropriate writing tools become essential.
 
-## Objectives
+## Why this project?
 
-- Facilitate Wolof writing
-- Promote the use of Wolof in digital environments
-- Improve typing efficiency
-- Support the standardization of written Wolof
+Writing a language should not be a technical obstacle.
+
+This keyboard aims to make Wolof easier to write while respecting its orthographic system and promoting its use in everyday digital communication.
 
 ## Features
 
-- Quick access to Wolof-specific characters
-- Optimized typing experience
-- Easy installation
-- User-friendly layout
-
-## Why This Project?
-
-A language that is easy to write is a language that is easier to use, share and transmit.
-
-This project was created to facilitate writing Wolof and to support the growing presence of national languages in digital and professional environments.
-
-As more content is produced in Wolof, appropriate writing tools become increasingly important for communication, education and knowledge sharing.
+* Quick access to Wolof-specific characters
+* Improved typing experience
+* Support for standard Wolof orthography
+* Easy integration into digital workflows
 
 ## Characters supported
 
