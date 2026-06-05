@@ -37,6 +37,21 @@ and other characters commonly used in standard Wolof orthography.
 ## Wolof Keyboard Layout
 ![Wolof Keyboard](clavier-wolof-linkedin.jpg)
 
+## Roadmap
+
+- [x] Initial keyboard layout
+- [x] GitHub documentation
+- [ ] User guide
+- [ ] Installation guide
+- [ ] Community feedback
+- [ ] Future improvements
+
+## Contributing
+
+Suggestions, feedback and contributions are welcome.
+
+Feel free to open an issue or contact the author.
+
 ## Author
 
 Samuel Benga
@@ -45,6 +60,11 @@ Wolof & Professional World
 
 Communication • Languages • Impact
 
-## Contact
-
+LinkedIn:
+https://www.linkedin.com/in/samuel-benga
+Mail: 
 samuelbenga92@gmail.com
+
+## License
+
+This project is distributed under the MIT License.
