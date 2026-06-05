@@ -26,7 +26,25 @@ As local languages become increasingly present in education, communication and d
 
 A language that is easy to write is a language that is easier to use, share and transmit.
 
-This project contributes to the digital presence of Wolof and supports its use in professional, educational and everyday contexts.
+This project was created to facilitate writing Wolof and to support the growing presence of national languages in digital and professional environments.
+
+As more content is produced in Wolof, appropriate writing tools become increasingly important for communication, education and knowledge sharing.
+
+## Characters supported
+
+The keyboard facilitates access to:
+
+À
+É
+Ë
+Ñ
+Ó
+Ŋ
+
+and other characters commonly used in standard Wolof orthography.
+
+## Screenshot
+![Wolof Keyboard](Clavier WO LinkedIn)
 
 ## Author
 
