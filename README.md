@@ -62,6 +62,7 @@ Communication • Languages • Impact
 
 LinkedIn:
 https://www.linkedin.com/in/samuel-benga
+
 Mail: 
 samuelbenga92@gmail.com
 
