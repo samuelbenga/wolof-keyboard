@@ -43,7 +43,7 @@ The keyboard facilitates access to:
 
 and other characters commonly used in standard Wolof orthography.
 
-## Screenshot
+## Wolof Keyboard Layout
 ![Wolof Keyboard](clavier-wolof-linkedin.jpg)
 
 ## Author
