@@ -1,3 +1,8 @@
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Language](https://img.shields.io/badge/Language-Wolof-orange)
+
 # Wolof Keyboard
 
 ## About
