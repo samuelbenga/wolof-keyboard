@@ -42,7 +42,7 @@ The project was initially developed for personal use and is now documented to fa
 
 Download the latest version from the **Releases** page.
 
-👉 **Releases**
+👉 https://github.com/samuelbenga/wolof-keyboard/releases/latest
 
 After downloading:
 
