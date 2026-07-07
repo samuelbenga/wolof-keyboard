@@ -40,27 +40,28 @@ The project was initially developed for personal use and is now documented to fa
 
 ## Download
 
-The keyboard is available for Windows.
+Download the latest version from the **Releases** page.
 
-Download the installation package from this repository and run:
+👉 **Releases**
 
-setup.exe
+After downloading:
+
+1. Extract the ZIP archive.
+2. Run **setup.exe**.
+3. Follow the installation wizard.
 
 ## Installation (Windows)
 
-1. Download the installation package.
+1. Download the latest release.
+2. Extract the ZIP archive.
+3. Run **setup.exe**.
+4. Complete the installation.
+5. Open:
 
-2. Run setup.exe.
+   **Settings → Time & Language → Language & Region → Keyboard**
 
-3. Complete the installation process.
-
-4. Open:
-
-Settings → Time & Language → Language & Region → Keyboard
-
-5. Add or select the Wolof Keyboard layout.
-
-6. Start typing in Wolof using the dedicated characters.
+6. Add the **Wolof Keyboard** layout.
+7. Start typing in Wolof.
 
 For detailed instructions, see:
 
@@ -79,30 +80,42 @@ For detailed instructions, see:
 
 ## Contributing
 
-Suggestions, feedback and contributions are welcome.
+Contributions are welcome.
 
-Feel free to open an issue or contact the author.
+You can help by:
+
+- reporting bugs;
+- suggesting improvements;
+- improving the documentation;
+- contributing code;
+- testing new releases.
+
+Please open an issue or submit a pull request.
 
 ## Motivation
 
-As digital communication expands, local languages need practical tools adapted to their writing systems.
+Digital inclusion requires more than content.
 
-This project is a modest contribution to making Wolof easier to write and use in digital and professional environments.
+It also requires practical tools that enable people to write their languages easily and correctly.
+
+This project is a contribution to strengthening Wolof's presence in digital environments and supporting the broader ecosystem of African language technologies.
 
 ## Author
 
-Samuel Benga
-
-Wolof & Professional Environments
+*Wolof Language Specialist*  
+*Localization Specialist*  
+*Language Technology Advocate*  
+*Open Source Contributor*
 
 Communication • Languages • Impact
 
-LinkedIn:
-https://www.linkedin.com/in/samuel-benga
+### Contact
 
-Mail: 
-samuelbenga92@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuel-benga
+- Email: samuelbenga92@gmail.com
 
 ## License
 
-This project is distributed under the MIT License.
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for details.
