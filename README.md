@@ -3,9 +3,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Language](https://img.shields.io/badge/Language-Wolof-orange)
 
-# Wolof Keyboard Developed and maintained by Samuel Benga
+# Wolof Keyboard
 
 Part of **Samuel Benga Language Tools**
+
+Developed and maintained by Samuel Benga.
 
 ## About
 
