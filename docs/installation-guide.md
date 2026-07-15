@@ -1,4 +1,4 @@
-# Installation Guide
+# Installation Guide (Wolof Keyboard by Samuel Benga)
 
 ## Windows Installation
 
