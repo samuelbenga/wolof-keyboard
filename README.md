@@ -5,6 +5,8 @@
 
 # Wolof Keyboard Developed and maintained by Samuel Benga
 
+Part of **Samuel Benga Language Tools**
+
 ## About
 
 Wolof Keyboard is a Windows keyboard layout designed to facilitate writing Wolof on digital devices.
