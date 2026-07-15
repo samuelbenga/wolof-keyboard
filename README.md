@@ -3,8 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Language](https://img.shields.io/badge/Language-Wolof-orange)
 
-# Wolof Keyboard
-Developed and maintained by Samuel Benga
+# Wolof Keyboard Developed and maintained by Samuel Benga
 
 ## About
 
@@ -80,8 +79,8 @@ For detailed instructions, see:
 - [x] Windows installation package
 - [x] GitHub documentation
 - [x] User guide
-- [ ] External testing
-- [ ] Community feedback
+- [x] External testing
+- [x] Community feedback
 - [ ] Future improvements
 
 ## Contributing
