@@ -4,6 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Wolof-orange)
 
 # Wolof Keyboard
+Developed and maintained by Samuel Benga
 
 ## About
 
